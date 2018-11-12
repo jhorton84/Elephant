@@ -1,3 +1,3 @@
 var makeTrunk = () => {
-    return 'trunk';
+    console.log("hello");
 }
