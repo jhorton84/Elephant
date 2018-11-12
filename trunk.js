@@ -1,0 +1,3 @@
+var makeTrunk = () => {
+    return 'trunk';
+}
